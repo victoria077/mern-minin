@@ -1,0 +1,5 @@
+{
+    "port": 5000,
+    "jwtSecret": "vladilen youtube mern",
+    "mongoUrl": "mongodb+srv://ViktoriiaSlepchenko:Clever007@cluster0.2eswqwh.mongodb.net/?retryWrites=true&w=majority"
+}
